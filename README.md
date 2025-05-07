@@ -91,6 +91,9 @@ Ensure consistent folder structure if you're moving files.
 
 # How to Run
 
+Before running `main.py`, ensure you have downloaded `All_external.csv` and run `clean.py` to generate the cleaned dataset used by the models.
+
+
 ```bash
 # Install dependencies
 pip install -r requirements.txt
